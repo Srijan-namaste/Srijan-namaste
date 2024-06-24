@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srijan-namaste
-- 👀 I’m interested in Cloud Computing & IOT
+- 👀 I’m interested in Cloud Computing, IOT & Web Development
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
