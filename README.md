@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Srijan-namaste
-- 👀 I’m interested in Cloud Computing, IOT & Web Development
-- 🌱 I’m currently learning Web Development 
+- 👨🏻‍💻 Proficient in JAVA, JavaScript, C, C++, HTML, CSS, NodeJS, DBMS & Data Structures and Algorithms(DSA)
+- 👀 I’m interested in Cloud Computing, IoT & Web Development
+- 🌱 I’m currently learning Web Development
 
 <!---
 Srijan-namaste/Srijan-namaste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
