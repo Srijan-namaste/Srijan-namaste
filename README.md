@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srijan-namaste
-- 👨🏻‍💻 Proficient in JAVA, JavaScript, C++, HTML, CSS, NodeJS, MongoDB(DBMS) & Data Structures and Algorithms(DSA)
-- 👀 I’m interested in Cloud Computing, IoT & Web Development
+- 👨🏻‍💻 Proficient in JAVA, JavaScript, C++, HTML, CSS, NodeJS, MongoDB & Data Structures and Algorithms(DSA)
+- 👀 I’m interested in AI/ML, Cloud Computing, IoT
 - 🌱 I’m currently learning Web Development
 
 <!---
